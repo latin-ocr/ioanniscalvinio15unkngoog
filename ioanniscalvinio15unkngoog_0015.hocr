@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio15unkngoog_0015.png"; bbox 0 0 4792 5842; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1974 2111 2810 2250">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1974 2111 2810 2250">
+     <span class='ocr_line' id='line_1_1' title="bbox 1974 2111 2810 2250; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 1974 2111 2810 2250; x_wconf 80' lang='lat' dir='ltr'><strong>SERMONS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1019 2658 3772 2831">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1019 2658 3772 2831">
+     <span class='ocr_line' id='line_1_2' title="bbox 1019 2658 3772 2831; baseline 0.001 -4"><span class='ocrx_word' id='word_1_2' title='bbox 1019 2658 1456 2829; x_wconf 78' lang='lat' dir='ltr'>SUR</span> <span class='ocrx_word' id='word_1_3' title='bbox 1575 2663 1864 2831; x_wconf 86' lang='lat' dir='ltr'>LE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1988 2659 3772 2831; x_wconf 85' lang='lat' dir='ltr'><strong>DEUTERONOME.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1881 3236 2907 3330">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1881 3236 2907 3330">
+     <span class='ocr_line' id='line_1_3' title="bbox 1881 3236 2907 3330; baseline 0 -4"><span class='ocrx_word' id='word_1_5' title='bbox 1881 3236 2398 3326; x_wconf 84' lang='lat' dir='ltr'>(SECONDE</span> <span class='ocrx_word' id='word_1_6' title='bbox 2459 3242 2907 3330; x_wconf 84' lang='lat' dir='ltr'>PARTIE).</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
